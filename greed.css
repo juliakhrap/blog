@@ -58,6 +58,12 @@
     .work-picture {
         width: 100%;
     }
+    .container-gray {
+        height:150px;
+    }
+    .footer-social {
+        justify-content: center;
+    }
 }
 
 @media(min-width:768px) {

@@ -143,6 +143,7 @@ a {
 .white-row {
     width: 100%;
 }
+
 .we-modest {
     margin-top: 85px;
     margin-bottom: 60px;
@@ -241,6 +242,7 @@ a {
 }
 [class*="team-mate-"]:hover .team-mate-description {
     background-color: #3a454d;
+    color: white;
 }
 .gray-section {
     background-color: #3a454d;
@@ -426,9 +428,7 @@ a {
     background-color: #3a454d;
     height: 100px;
 }
-.all-rights {
-    display: flex;
-    justify-content: center;
+.copyrights {
     padding-top: 45px;
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
@@ -436,6 +436,6 @@ a {
 }
 .footer-social {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     padding-top: 25px;
 }
