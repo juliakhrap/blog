@@ -40,7 +40,6 @@ body {
 .menu {
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-evenly;
     overflow: auto;
 }
 .item {
