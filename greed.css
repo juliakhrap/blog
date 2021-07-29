@@ -64,6 +64,12 @@
     .footer-social {
         justify-content: center;
     }
+    .btn-send {
+        margin-top: 5px;
+    }
+    .footer-social{
+        padding-top: 10px;
+    }
 }
 
 @media(min-width:768px) {
